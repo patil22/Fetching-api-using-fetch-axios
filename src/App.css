@@ -1,0 +1,15 @@
+.ab{
+  border: 2px solid black;
+  width: 42%;
+  height: 122px;
+}
+
+.abc{
+  display: flex;
+}
+
+
+#img{
+  height: 300px;
+  width: 300px;
+}
